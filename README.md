@@ -14,6 +14,6 @@ For example, as a post-processing step for spectral clustering, replacing e.g. k
 # Reference
 
 Gary Froyland, Christopher P. Rock, and Konstantinos Sakellariou.
-Sparse eigenbasis approximation: multiple feature extraction across spatiotemporal scales with application to coherent set identification. Communications in Nonlinear Science and Numerical Simulation, 77:81-107, 2019.
+Sparse eigenbasis approximation: multiple feature extraction across spatiotemporal scales with application to coherent set identification. Communications in Nonlinear Science and Numerical Simulation, 77:81-107, 2019. https://arxiv.org/abs/1812.02787
 
 
