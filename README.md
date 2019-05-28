@@ -5,7 +5,7 @@ Sparse EigenBasis Approximation -- A MATLAB package for finding a sparse basis f
 
 S=SEBA(V), where the columns of V are input data vectors and the columns of S are output sparse vectors.
 The column space of S approximates the column space of V, with the columns of S chosen to be sparse.
-Usage of SEBA.m and other code in the repository is ilustrated in the Reference below.
+Usage of SEBA.m and other code in the repository is illustrated in the journal article below.
 
 # Applications 
 
