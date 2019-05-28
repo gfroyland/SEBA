@@ -26,4 +26,4 @@ its authors by adding a reference to:
 
 Gary Froyland, Christopher P. Rock, and Konstantinos Sakellariou.
 Sparse eigenbasis approximation: multiple feature extraction across spatiotemporal scales with application to coherent set identification. 
-To appear in Communications in Nonlinear Science and Numerical Simulation. 
+Communications in Nonlinear Science and Numerical Simulation, 77:81-107, 2019.
