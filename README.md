@@ -1,5 +1,5 @@
 # SEBA
-Sparse EigenBasis Approximation -- A MATLAB package for finding a sparse basis for the span of an input collection of vectors.
+Sparse EigenBasis Approximation -- Code for finding a sparse basis for the span of an input collection of vectors.
 
 # Usage
 
