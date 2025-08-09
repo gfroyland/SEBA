@@ -66,6 +66,7 @@ function SEBA(V, Rinit=nothing)
     S = S[:, ind]
 
     error = norm(Rnew - R)
-    return S, R
+    return S
 
 end
+
