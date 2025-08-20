@@ -2,7 +2,7 @@
 <b>Sparse EigenBasis Approximation -- Code for finding a sparse basis for the span of an input collection of vectors.</b>
 
 <i>SEBA is useful in all settings where individual features need to be separated or disentangled from a generic basis of data vectors.</i>
-For example, as a post-processing step for spectral clustering, replacing e.g. k-means or other methods that enforce a partitioning of the data.  SEBA is specifically designed to <b>not enforce a partition of the data</b>, although it should find a partition if this is appropriate. Likelihood of membership in a cluster/feature is obtained/retained, in contrast to k-means.
+For example, as a post-processing step for spectral clustering, replacing e.g. k-means or other methods that enforce a partitioning of the data.  SEBA is specifically designed to <b>not enforce a partition of the data</b>, although it should find a partition if this is appropriate. Likelihood of membership in a cluster/feature is obtained, in contrast to k-means.
 
 Let V be an array whose columns are individual data vectors (for example, eigenvectors arising from a spectral clustering). 
 The single matlab function `SEBA.m` or julia function `SEBA.jl` is called as `S=SEBA(V)`.
@@ -16,7 +16,7 @@ Usage of SEBA and other code in the repository is illustrated in the journal art
 ## Manifold geometry 
 
 <img width="600"  alt="pepsiblob5" src="https://github.com/user-attachments/assets/ddd308ee-c32c-48c4-b76b-3ebbf2568859" /><br>
-Left to right:  2nd to 5th <b>eigenvectors</b> of Laplace operator on the planar manfiold shown.
+Left to right:  2nd to 5th <b>eigenvectors</b> of Laplace operator on the planar manifold shown.
 
 <img width="600"  alt="pepsiblobSEBA" src="https://github.com/user-attachments/assets/f5b56cd4-b85c-47a5-a703-2f455d9aaa28" /><br>
 Left to right:  Result of applying SEBA to the leading four eigenvectors (constant vector and 2nd to 4th shown above).  Each geometric ``knob'' is highlighted in a single vector.
