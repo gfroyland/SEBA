@@ -50,7 +50,7 @@ Sparse eigenbasis approximation: multiple feature extraction across spatiotempor
 
 <ol>
 <li>Gary Froyland.
-A tutorial on the dynamic Laplacian. To appear in Proceedings of the 2023 International Congress on Industrial and Applied Mathematics (ICIAM). Springer, 2025. https://web.maths.unsw.edu.au/~froyland/iciam23proceedings_short2.pdf
+A tutorial on the dynamic Laplacian. To appear in Proceedings of the 2023 International Congress on Industrial and Applied Mathematics (ICIAM). Springer, 2025. https://web.maths.unsw.edu.au/~froyland/ICIAM_Chapter.pdf
 
   <li>
 Gary Froyland, Péter Koltai, and Martin Stahn. Computation and optimal perturbation of finite-time coherent sets for aperiodic flows without trajectory integration. <i>SIAM Journal on Applied Dynamical Systems</i>, 19(3):1659–1700, 2020. https://web.maths.unsw.edu.au/~froyland/FKS20.pdf
