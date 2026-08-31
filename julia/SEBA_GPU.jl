@@ -1,5 +1,7 @@
 function SEBA(V, Rinit=nothing)
 
+    #Designed for use with CUDA.jl
+    
     # Inputs: 
     # V is pxr matrix (r vectors of length p as columns)
     # Rinit is an (optional) initial rotation matrix.
