@@ -70,7 +70,6 @@ function SEBA(V, Rinit=nothing)
     ind = sortperm(vec(minimum(S, dims=1)), rev=true)
     S = S[:, ind]
 
-    error = norm(Rnew - R)
-    return S, R, iter, error
+    return S
 
 end
